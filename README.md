@@ -11,5 +11,5 @@ check annotations:
 # disclaimer
 
 I built this project in couple hours, without prior experience with [ace editor](http://ace.c9.io/).
-I don't think my solution adheres to best practices of the ace editor. Please
-feel free to fix any error you notice here.
+I don't think my solution adheres to the best practices of the editor. Please
+feel free to fix any errors you notice.
