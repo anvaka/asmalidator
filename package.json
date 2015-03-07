@@ -1,0 +1,29 @@
+{
+  "name": "asmalidator",
+  "version": "0.1.0",
+  "description": "Very basic asm.js online validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browserify -s validate src/validate.js > src/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/asmalidator"
+  },
+  "keywords": [
+    "asm.js",
+    "validator",
+    "online",
+    "ace"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anvaka/asmalidator/issues"
+  },
+  "homepage": "https://github.com/anvaka/asmalidator",
+  "dependencies": {
+    "asm.js": "git://github.com/anvaka/asm.js"
+  }
+}
