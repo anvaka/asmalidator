@@ -6,7 +6,7 @@ executing it.
 Just paste your code [into the editor](http://anvaka.github.io/asmalidator/) and
 check annotations:
 
-[Error demo](https://raw.githubusercontent.com/anvaka/asmalidator/mdeia/error_demo.png)
+![Error demo](https://raw.githubusercontent.com/anvaka/asmalidator/master/media/error_demo.png)
 
 # disclaimer
 
