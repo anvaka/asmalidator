@@ -10,6 +10,6 @@ check annotations:
 
 # disclaimer
 
-I built this project in couple hours, without prior experience in ace editor.
+I built this project in couple hours, without prior experience with [ace editor](http://ace.c9.io/).
 I don't think my solution adheres to best practices of the ace editor. Please
 feel free to fix any error you notice here.
