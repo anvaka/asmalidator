@@ -1,6 +1,6 @@
 {
   "name": "asmalidator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Very basic asm.js online validator",
   "main": "index.js",
   "scripts": {
