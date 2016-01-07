@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/anvaka/asmalidator",
   "dependencies": {
-    "asm.js": "git://github.com/anvaka/asm.js"
+    "asm.js": "git://github.com/dherman/asm.js"
   }
 }
